@@ -1,5 +1,5 @@
 ##### Web view of the hosted app:
-	http://52.26.132.12/
+* [http://52.26.132.12/](http://52.26.132.12/)
 
 ##### login:
 * ssh -i udacity_key.rsa grader:project5@52.26.132.12 -p 2200
@@ -27,7 +27,7 @@
 
 ##### remote monitoring of the server and multiple services using:
 * nagios
-* url: http://52.26.132.12/nagios/
+* url: [http://52.26.132.12/nagios/](http://52.26.132.12/nagios/)
 * username = nagiosadmin
 * password = project5
 * note on nagios: ssh monitoring is not set up fully.
