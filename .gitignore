@@ -1,0 +1,3 @@
+#ignore rsa key related files
+*.pub
+*.rsa
